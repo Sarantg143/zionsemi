@@ -1,0 +1,178 @@
+{
+    "id":"66989ac2579d34a2e76dab85",
+    "degree_title":"Psychology",
+    "description":"This course provides a comprehensive overview of the fundamental concepts and theories in psychology. Students will explore various branches of psychology, including cognitive, developmental, social, and clinical psychology. Key topics include the biological basis of behavior, learning and memory, perception, personality theories, psychological disorders, and therapeutic approaches.",
+    "price":5000,
+    "thumbnail":null,
+    "courses":
+    [
+        {
+            "course_id": "66989ac2579d34a2e76dbb85",
+            "title": "Developmental Psychology",
+            "overviewPoints": [
+                {
+                    "heading": "Theoretical Frameworks",
+                    "content": "Students will study major developmental theories, including Piaget’s cognitive development theory and Erikson’s psychosocial stages, to understand how individuals grow and change over time."
+                },
+                {
+                    "heading": "Life Stage Challenges",
+                    "content": "The course will highlight significant challenges and transitions faced at different life stages, such as adolescence and aging, and their implications for mental health and well-being."
+                }
+            ],
+            "description": "This course explores human development from infancy to adulthood, focusing on cognitive, emotional, and social growth. Students will examine key theories, milestones, and the influence of culture and environment on development.",
+            "image": "",
+            "lessons": [
+                {
+                    "title": "Cognitive Development in Childhood",
+                    "description": "This lesson focuses on the stages of cognitive development proposed by Jean Piaget. Students will learn how children perceive the world differently at various ages and the implications for learning and education.",
+                    "chapters": [
+                        {
+                            "title": "chapter 1",
+                            "type": "video",
+                            "link": "https://vimeo.com/3539841",
+                            "duration": 600
+                        },
+                        {
+                            "title": "chapter 2",
+                            "type": "video",
+                            "link": "https://vimeo.com/87024626",
+                            "duration": 600
+                        }
+                    ],
+                    "test": {
+                        "test_id":"66989ac2579d34a2e76dbb15",
+                        "title": "MCQ",
+                        "timeLimit": 60,
+                        "questions": [
+                            {
+                                "question": "Which of the following stages is NOT part of Piaget's cognitive development theory?",
+                                "options": [
+                                    "Sensorimotor",
+                                    "Preoperational",
+                                    "Concrete Operational",
+                                    "Transitional Stage"
+                                ],
+                                "correctAnswer": "Transitional Stage"
+                            },
+                            {
+                                "question": "According to Piaget, what is the primary cognitive skill developed during the sensorimotor stage?",
+                                "options": [
+                                    "Abstract thinking",
+                                    "Object permanence",
+                                    "Logical reasoning",
+                                    "Moral reasoning"
+                                ],
+                                "correctAnswer": "Object permanence"
+                            },
+                            {
+                                "question": "What is a key factor in identity formation during adolescence, according to Erikson?",
+                                "options": [
+                                    "Trust vs. Mistrust",
+                                    "Autonomy vs. Shame and Doubt",
+                                    "Identity vs. Role Confusion",
+                                    "Intimacy vs. Isolation"
+                                ],
+                                "correctAnswer": "Identity vs. Role Confusion"
+                            },
+                            {
+                                "question": "Question 2",
+                                "options": [
+                                    "Parenting styles",
+                                    "Academic performance",
+                                    "Age",
+                                    "Socioeconomic status"
+                                ],
+                                "correctAnswer": "Parenting styles"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Cognitive Development in Adulthoodhood",
+                    "description": " This lesson focuses on the stages of cognitive development proposed by Jean Piaget. Students will learn how children perceive the world differently at various ages and the implications for learning and education.",
+                    "chapters": [
+                        {
+                            "title": "chapter 1",
+                            "type": "video",
+                            "link": "https://vimeo.com/3539841",
+                            "duration": 600
+                        },
+                        {
+                            "title": "chapter 2",
+                            "type": "video",
+                            "link": "https://vimeo.com/87024626",
+                            "duration": 600
+                        }
+                    ]
+                }
+            ],
+            "header": "Developmental Psychology",
+            "videoUrl": "https://vimeo.com/3539841"
+        },
+        {
+            "course_id": "66989ac2579d34a2e76dbb86",
+            "title": "Abnormal Psychology",
+            "overviewPoints": [
+                {
+                    "heading": "Disorder Classification",
+                    "content": "Students will explore the DSM-5 diagnostic criteria to categorize and understand a range of psychological disorders, from anxiety and mood disorders to personality disorders."
+                },
+                {
+                    "heading": "Treatment Modalities",
+                    "content": "The course will examine various treatment options, including psychotherapy and pharmacotherapy, and discuss their effectiveness in addressing mental health challenges."
+                }
+            ],
+            "description": "This course covers the study of psychological disorders, including their classification, diagnosis, and treatment. Students will analyze various conditions, therapeutic approaches, and the societal impacts of mental health issues.",
+            "image": "",
+            "lessons": [
+                {
+                    "title": "Anxiety Disorders: Symptoms and Treatments",
+                    "description": "This lesson provides an overview of various anxiety disorders, their symptoms, and the latest treatment approaches, including cognitive-behavioral therapy and medication.",
+                    "chapters": [
+                        {
+                            "title": "chapter 1",
+                            "type": "video",
+                            "link": "https://vimeo.com/3539841",
+                            "duration": 600
+                        },
+                        {
+                            "title": "chapter 2",
+                            "type": "video",
+                            "link": "https://vimeo.com/87024626",
+                            "duration": 600
+                        }
+                    ],
+                    "test": {
+                        "test_id":"66989ac2579d34a2e76dbb35",
+                        "title": "Test 1",
+                        "timeLimit": 30,
+                        "questions": [
+                            {
+                                "question": "Which of the following is a common symptom of generalized anxiety disorder (GAD)?",
+                                "options": [
+                                    "Intense fear of a specific object or situation",
+                                    "Persistent worry about multiple life areas",
+                                    "Sudden episodes of intense fear",
+                                    "Compulsive behaviors to reduce anxiety"
+                                ],
+                                "correctAnswer": "Persistent worry about multiple life areas"
+                            },
+                            {
+                                "question": "What is the primary treatment method for anxiety disorders that involves changing negative thought patterns?",
+                                "options": [
+                                    "Psychoanalysis",
+                                    "Cognitive-behavioral therapy (CBT)",
+                                    "Humanistic therapy",
+                                    "Electroconvulsive therapy (ECT)"
+                                ],
+                                "correctAnswer": "Cognitive-behavioral therapy (CBT)"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "header": "Abnormal Psychology",
+            "videoUrl": "https://vimeo.com/3539841"
+        }
+    ]
+}
